@@ -1,1 +1,1 @@
-h1 New version of Hunt: Showdown 1896 Quiz
+# New version of Hunt: Showdown 1896 Quiz
